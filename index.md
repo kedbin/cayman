@@ -6,6 +6,7 @@
 
 #### Site Contents!
 Page links with date it went online:
+* 10/15/2020 - [Anxiety Episodes Log](https://kedbin.github.io/pages/anxiety)
 * 10/09/2020 - [Documentation](http://kedbin.github.io/exp01/Docs/documentation)
 * 07/30/2020 - [About me](http://kedbin.github.io/exp01/bg/about)
 * 07/30/2020 - [Random shit](http://kedbin.github.io/exp01/bored/pastime)
